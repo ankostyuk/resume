@@ -149,7 +149,7 @@ Applied technologies: JavaScript, ExtJS, jQuery, HTML, CSS, Prof-UIS, C/C++, Win
 
 I took part in designing and developing
 of Library and SDK for [recognition of machine-readable passport-visa documents](https://cloud.githubusercontent.com/assets/384381/12264189/0ab47288-b946-11e5-9412-f681a1e8b7e0.png),
-Library and SDK for coding-decoding of bi-dimensional barcode PDF417
+Library and SDK for [coding-decoding of bi-dimensional barcode PDF417](https://cloud.githubusercontent.com/assets/384381/12264200/28479b5e-b946-11e5-8f4e-8cbad4e0fbfb.png)
 for "The state system of production, execution, and control of passport-visa documents of new generation".
 
 Applied technologies: Java, Image processing, Artificial neural network, Reed–Solomon error correction.

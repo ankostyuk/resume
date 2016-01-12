@@ -141,7 +141,7 @@ I have developed UI of the following projects:
 * [Crude oil mining monitoring web application](https://cloud.githubusercontent.com/assets/384381/12264765/ed6cf7e6-b949-11e5-8267-1eb8beed2f5f.png)
 * Web based document management system
 * Web based system of the distance education
-* Automated system of decision system support in transport logistics
+* [Automated system of decision system support in transport logistics](https://cloud.githubusercontent.com/assets/384381/12264773/ff235dae-b949-11e5-9a09-696d41c03786.png)
 
 Applied technologies: JavaScript, ExtJS, jQuery, HTML, CSS, Prof-UIS, C/C++, Win32 API, GIS.
 

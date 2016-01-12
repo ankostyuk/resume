@@ -1,5 +1,5 @@
 # Resume
 
-[English](./resume-en.md)
+[English](resume-en.md)
 
-[Русский](./resume-ru.md)
+[Русский](resume-ru.md)

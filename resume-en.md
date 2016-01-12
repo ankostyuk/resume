@@ -138,7 +138,7 @@ analysis of business requirements, team leading.
 * * *
 
 I have developed UI of the following projects:
-* Crude oil mining monitoring web application
+* [Crude oil mining monitoring web application](https://cloud.githubusercontent.com/assets/384381/12264765/ed6cf7e6-b949-11e5-8267-1eb8beed2f5f.png)
 * Web based document management system
 * Web based system of the distance education
 * Automated system of decision system support in transport logistics
